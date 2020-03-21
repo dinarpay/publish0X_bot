@@ -1,0 +1,5 @@
+node_modules/puppeteer/.local-chromium/linux-674921/chrome-linux/chrome
+users/**/chromData/
+publish0x/users/**/chromData/
+node_modules/
+data/

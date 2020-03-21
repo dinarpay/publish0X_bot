@@ -1,0 +1,17 @@
+{
+	"username": "theloveandsex",
+	"email": "theloveandsex@protonmail.com",
+	"userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3312.0 Safari/537.36",
+	"headlessS": false,
+	"useTor": false,
+	"useAdBlocker": false,
+	"port": 5000,
+	"useCronForLike": false,
+	"cronEveryMin": 1,
+	"botRunChance": 30,
+	"runOnStart": false,
+	"logToFile": false,
+	"maxConCurrentTip": 2,
+	"torRange": [50,55],
+	"closeTheBrow": true
+}
